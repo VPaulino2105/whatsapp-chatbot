@@ -1,0 +1,33 @@
+{
+  "name": "whatsapp-chatbot",
+  "version": "1.0.0",
+  "description": "Un ChatBOT para Whatsapp con diversas funciones",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "src/Comandos/*"
+    ]
+  },
+  "keywords": [
+    "Whatsapp-BOT"
+  ],
+  "author": "Victor M. Paulino",
+  "license": "ISC",
+  "dependencies": {
+    "googlethis": "^1.8.0",
+    "moment": "^2.30.1",
+    "moment-duration-format": "^2.3.2",
+    "nodemon": "^3.1.7",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0",
+    "youtube-search": "^1.1.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "prettier": "^3.1.0"
+  }
+}

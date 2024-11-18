@@ -1,0 +1,95 @@
+2024/11/18-18:40:05.965 52dc Reusing MANIFEST C:\Programacion\Whatsapp-ChatBOT\src\wwebjs-auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/18-18:40:05.966 52dc Recovering log #5712
+2024/11/18-18:40:06.116 52dc Reusing old log C:\Programacion\Whatsapp-ChatBOT\src\wwebjs-auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/005712.log 
+2024/11/18-18:40:07.284 5340 Level-0 table #5764: started
+2024/11/18-18:40:07.295 5340 Level-0 table #5764: 739801 bytes OK
+2024/11/18-18:40:07.296 5340 Delete type=0 #5712
+2024/11/18-18:40:07.296 5340 Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at '\x00#\x00\x00\x05' @ 9464662 : 1
+2024/11/18-18:40:07.296 5340 Compacting 1@0 + 1@1 files
+2024/11/18-18:40:07.317 5340 Generated table #5765@0: 15044 keys, 129710 bytes
+2024/11/18-18:40:07.319 5340 Generated table #5766@0: 19 keys, 10001 bytes
+2024/11/18-18:40:07.326 5340 Generated table #5767@0: 6355 keys, 168994 bytes
+2024/11/18-18:40:07.333 5340 Generated table #5768@0: 6337 keys, 133110 bytes
+2024/11/18-18:40:07.333 5340 Compacted 1@0 + 1@1 files => 441815 bytes
+2024/11/18-18:40:07.333 5340 compacted to: files[ 0 4 52 70 0 0 0 ]
+2024/11/18-18:40:07.334 5340 Manual compaction at level-0 from '\x00#\x00\x00\x05' @ 9464662 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/18-18:40:08.267 52dc Moved #5765 to level-2 129710 bytes OK: files[ 0 3 53 70 0 0 0 ]
+2024/11/18-18:40:08.773 4460 Compacting 1@1 + 8@2 files
+2024/11/18-18:40:08.831 4460 Generated table #5769@1: 41950 keys, 2210226 bytes
+2024/11/18-18:40:08.884 4460 Generated table #5770@1: 47279 keys, 2216063 bytes
+2024/11/18-18:40:08.939 4460 Generated table #5771@1: 53124 keys, 2233571 bytes
+2024/11/18-18:40:08.998 4460 Generated table #5772@1: 27111 keys, 2269721 bytes
+2024/11/18-18:40:09.045 4460 Generated table #5773@1: 26032 keys, 2270732 bytes
+2024/11/18-18:40:09.093 4460 Generated table #5774@1: 33835 keys, 2255713 bytes
+2024/11/18-18:40:09.142 4460 Generated table #5775@1: 38435 keys, 2247162 bytes
+2024/11/18-18:40:09.186 4460 Generated table #5776@1: 27399 keys, 2266480 bytes
+2024/11/18-18:40:09.188 4460 Generated table #5777@1: 95 keys, 8246 bytes
+2024/11/18-18:40:09.188 4460 Compacted 1@1 + 8@2 files => 17977914 bytes
+2024/11/18-18:40:09.188 4460 compacted to: files[ 0 2 54 70 0 0 0 ]
+2024/11/18-18:40:09.189 4460 Delete type=2 #5691
+2024/11/18-18:40:09.189 4460 Delete type=2 #5692
+2024/11/18-18:40:09.189 4460 Delete type=2 #5693
+2024/11/18-18:40:09.189 4460 Delete type=2 #5694
+2024/11/18-18:40:09.189 4460 Delete type=2 #5695
+2024/11/18-18:40:09.189 4460 Delete type=2 #5696
+2024/11/18-18:40:09.189 4460 Delete type=2 #5697
+2024/11/18-18:40:09.189 4460 Delete type=2 #5698
+2024/11/18-18:40:09.189 4460 Delete type=2 #5715
+2024/11/18-18:40:09.189 4460 Delete type=2 #5764
+2024/11/18-18:40:09.189 4460 Delete type=2 #5766
+2024/11/18-18:40:09.239 4460 Compacting 1@2 + 2@3 files
+2024/11/18-18:40:09.295 4460 Generated table #5778@2: 84510 keys, 2232401 bytes
+2024/11/18-18:40:09.331 4460 Generated table #5779@2: 39433 keys, 2221706 bytes
+2024/11/18-18:40:09.331 4460 Compacted 1@2 + 2@3 files => 4454107 bytes
+2024/11/18-18:40:09.331 4460 compacted to: files[ 0 2 53 70 0 0 0 ]
+2024/11/18-18:40:09.332 4460 Delete type=2 #5759
+2024/11/18-18:40:09.332 4460 Delete type=2 #5760
+2024/11/18-18:40:09.332 4460 Delete type=2 #5765
+2024/11/18-18:40:10.921 52dc Compacting 1@1 + 12@2 files
+2024/11/18-18:40:11.013 52dc Generated table #5780@1: 147028 keys, 2323883 bytes
+2024/11/18-18:40:11.040 52dc Generated table #5781@1: 21087 keys, 2200856 bytes
+2024/11/18-18:40:11.061 52dc Generated table #5782@1: 14275 keys, 2139813 bytes
+2024/11/18-18:40:11.083 52dc Generated table #5783@1: 12298 keys, 2137759 bytes
+2024/11/18-18:40:11.104 52dc Generated table #5784@1: 12798 keys, 2137585 bytes
+2024/11/18-18:40:11.126 52dc Generated table #5785@1: 13844 keys, 2141052 bytes
+2024/11/18-18:40:11.162 52dc Generated table #5786@1: 49072 keys, 2184111 bytes
+2024/11/18-18:40:11.248 52dc Generated table #5787@1: 121550 keys, 2278842 bytes
+2024/11/18-18:40:11.321 52dc Generated table #5788@1: 104840 keys, 2253910 bytes
+2024/11/18-18:40:11.391 52dc Generated table #5789@1: 103819 keys, 2253095 bytes
+2024/11/18-18:40:11.398 52dc Generated table #5790@1: 6414 keys, 138069 bytes
+2024/11/18-18:40:11.398 52dc Compacted 1@1 + 12@2 files => 22188975 bytes
+2024/11/18-18:40:11.398 52dc compacted to: files[ 0 1 52 70 0 0 0 ]
+2024/11/18-18:40:11.399 52dc Delete type=2 #5648
+2024/11/18-18:40:11.399 52dc Delete type=2 #5649
+2024/11/18-18:40:11.399 52dc Delete type=2 #5650
+2024/11/18-18:40:11.399 52dc Delete type=2 #5681
+2024/11/18-18:40:11.399 52dc Delete type=2 #5719
+2024/11/18-18:40:11.399 52dc Delete type=2 #5720
+2024/11/18-18:40:11.399 52dc Delete type=2 #5721
+2024/11/18-18:40:11.399 52dc Delete type=2 #5722
+2024/11/18-18:40:11.399 52dc Delete type=2 #5737
+2024/11/18-18:40:11.399 52dc Delete type=2 #5738
+2024/11/18-18:40:11.399 52dc Delete type=2 #5739
+2024/11/18-18:40:11.399 52dc Delete type=2 #5740
+2024/11/18-18:40:11.399 52dc Delete type=2 #5767
+2024/11/18-18:40:11.974 3e7c Compacting 1@1 + 9@2 files
+2024/11/18-18:40:12.050 3e7c Generated table #5791@1: 102306 keys, 2251439 bytes
+2024/11/18-18:40:12.122 3e7c Generated table #5792@1: 106741 keys, 2255989 bytes
+2024/11/18-18:40:12.190 3e7c Generated table #5793@1: 105002 keys, 2255749 bytes
+2024/11/18-18:40:12.258 3e7c Generated table #5794@1: 103950 keys, 2253139 bytes
+2024/11/18-18:40:12.325 3e7c Generated table #5795@1: 103161 keys, 2254314 bytes
+2024/11/18-18:40:12.394 3e7c Generated table #5796@1: 105429 keys, 2256660 bytes
+2024/11/18-18:40:12.461 3e7c Generated table #5797@1: 106919 keys, 2256670 bytes
+2024/11/18-18:40:12.480 3e7c Generated table #5798@1: 29102 keys, 630182 bytes
+2024/11/18-18:40:12.480 3e7c Compacted 1@1 + 9@2 files => 16414142 bytes
+2024/11/18-18:40:12.481 3e7c compacted to: files[ 0 0 51 70 0 0 0 ]
+2024/11/18-18:40:12.481 3e7c Delete type=2 #5723
+2024/11/18-18:40:12.481 3e7c Delete type=2 #5724
+2024/11/18-18:40:12.481 3e7c Delete type=2 #5725
+2024/11/18-18:40:12.481 3e7c Delete type=2 #5726
+2024/11/18-18:40:12.481 3e7c Delete type=2 #5727
+2024/11/18-18:40:12.481 3e7c Delete type=2 #5728
+2024/11/18-18:40:12.481 3e7c Delete type=2 #5729
+2024/11/18-18:40:12.481 3e7c Delete type=2 #5730
+2024/11/18-18:40:12.481 3e7c Delete type=2 #5731
+2024/11/18-18:40:12.481 3e7c Delete type=2 #5768
